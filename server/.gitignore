@@ -29,3 +29,7 @@ yarn.lock
 
 # Env files
 .env
+
+# Prisma
+prisma/migrations
+dev.db-journal
